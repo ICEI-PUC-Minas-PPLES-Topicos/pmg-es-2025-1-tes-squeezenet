@@ -13,4 +13,4 @@ Repositório para publicação das resoluções dos exercícios de Laboratório 
 
 ## Instruções de Uso
 
-* Apresentar instruções de como o trabalho pode ser replicado/reproduzido.
+* Para reproduzir o trabalho, todo o código do notebook jupiter está disponível na pasta `códigos`. Baixe o arquivo notebook-squeezenet.ipynb, e o importe no Google Colab. Após a importação, GPUs T4 no ambiente de execução para que os treinamentos sejam executados rapidamente. No notebook, você encontrará os 5 treinamentos, basta executá-los individualmente.
